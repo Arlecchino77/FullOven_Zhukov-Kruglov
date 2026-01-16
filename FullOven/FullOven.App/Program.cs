@@ -12,10 +12,12 @@ namespace FullOven.App
         {
             Console.WriteLine("FullOven 1.0");
             Console.WriteLine("----------------");
-            Console.WriteLine("1) Добавить задачу (пока заглушка)");
-            Console.WriteLine("2) Показать список задач (пока заглушка)");
-            Console.WriteLine("3) Изменить статус задачи (пока заглушка)");
-            Console.WriteLine("4) Удалить задачу (пока заглушка)");
+            Console.WriteLine("1) О ресторане");
+            Console.WriteLine("2) Открыть меню");
+            Console.WriteLine("3) Закрыть меню");
+            Console.WriteLine("4) Наши места на карте");
+            Console.WriteLine("5) Забронировать стол при помощи горячей линии");
+            Console.WriteLine("6) Наши контакты");
             Console.WriteLine("0) Выход");
             Console.WriteLine("----------------");
             Console.Write("Выберите пункт меню: ");
